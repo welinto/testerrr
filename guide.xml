@@ -1,0 +1,2374 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bandvale.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox [Brazil]">
+    <display-name lang="pt">Fox [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PlayboyTV">
+    <display-name lang="pt">PlayboyTV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmaisribeirao.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180919011500 -0300" stop="20180919021500 -0300" channel="Fox Sports">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <desc lang="pt">Acompanhe semanalmente e fique por dentro dos gols, os melhores lances e o resumo de tudo da rodada está no Show do Campeonato Espanhol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919021500 -0300" stop="20180919040000 -0300" channel="Fox Sports">
+    <title lang="pt">Boxe: Danny Garcia x Shawn Porter</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919040000 -0300" stop="20180919041500 -0300" channel="Fox Sports">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919041500 -0300" stop="20180919051500 -0300" channel="Fox Sports">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919051500 -0300" stop="20180919070000 -0300" channel="Fox Sports">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919073000 -0300" channel="Fox Sports">
+    <title lang="pt">Visão Fox</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919073000 -0300" stop="20180919083000 -0300" channel="Fox Sports">
+    <title lang="pt">Aqui Com Benja</title>
+    <desc lang="pt">Benjamin Back recebe personalidades do mundo esportivo para um papo descontraído e revelador(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919083000 -0300" stop="20180919090000 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919090000 -0300" stop="20180919120000 -0300" channel="Fox Sports">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919124500 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919124500 -0300" stop="20180919153000 -0300" channel="Fox Sports">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+    <desc lang="pt">Bom humor, opinião entrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919153000 -0300" stop="20180919173000 -0300" channel="Fox Sports">
+    <title lang="pt">Boa Tarde Fox - Ao Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919173000 -0300" stop="20180919200000 -0300" channel="Fox Sports">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919200000 -0300" stop="20180919210000 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919210000 -0300" stop="20180919214500 -0300" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919214500 -0300" stop="20180919234500 -0300" channel="Fox Sports">
+    <title lang="pt">Flamengo x Corinthians - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919234500 -0300" stop="20180920000000 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919014000 -0300" stop="20180919032000 -0300" channel="Telecine Fun">
+    <title lang="pt">As Aventuras de Dancer e Princesa</title>
+    <desc lang="pt">Para resolver os problemas pessoais e de trabalho, Rick Dancer ganha uma nova parceira de trabalho, uma cadela policial chamada Princesa. Dancer não esperava que a cadela poderia mudar a sua vida para melhor(n)</desc>
+    <credits>
+      <director>Gabriel Sabloff</director>
+      <actor>Mike Starr</actor>
+      <actor>David White</actor>
+      <actor>Billy Gardell</actor>
+      <actor>Quinton Aaron</actor>
+      <actor>Michael Badalucco</actor>
+      <actor>Matthew Blackmon</actor>
+      <actor>Verda Davenport</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919032000 -0300" stop="20180919051000 -0300" channel="Telecine Fun">
+    <title lang="pt">Deu Tudo Errado</title>
+    <desc lang="pt">Martha conhece Whitman Crawford, e acredita ter encontrado seu príncipe. Porém, ao descobrir algumas peculiaridades ele se transforma em um verdadeiro sapo(n)</desc>
+    <credits>
+      <director>Nick Castle</director>
+      <actor>Ellen DeGeneres</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Joan Cusack</actor>
+      <actor>Dean Stockwell</actor>
+      <actor>Joan Plowright</actor>
+      <actor>John Livington</actor>
+      <actor>Robert Goulet</actor>
+      <actor>Ellen Cleghorne</actor>
+      <actor>Hope Davis</actor>
+      <actor>Brad William Henke</actor>
+      <actor>Christine Cattel</actor>
+      <actor>Peter White</actor>
+      <actor>Polly Holiday</actor>
+      <actor>Briant Wells</actor>
+      <actor>Camille Saviola</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919051000 -0300" stop="20180919070500 -0300" channel="Telecine Fun">
+    <title lang="pt">Heróis Fora de Órbita</title>
+    <desc lang="pt">Alienígenas vêm de uma galáxia distante à procura de uma nave terrestre, da série Galaxy Quest, a fim de pedirem ajuda para seu povo ao capitão(n)</desc>
+    <credits>
+      <director>Dean Parisot</director>
+      <actor>Tim Allen</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Alan Rickman,Tony Shalhoub</actor>
+      <actor>Sam Rockwell</actor>
+      <actor>Daryl Mitchell</actor>
+      <actor>Enrico Colantoni</actor>
+      <actor>Missi Pyle</actor>
+      <actor>Kaitlin Cullum</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919070500 -0300" stop="20180919085000 -0300" channel="Telecine Fun">
+    <title lang="pt">Bye Bye Jaqueline</title>
+    <desc lang="pt">Ter 16 anos é fácil. O difícil é ser obrigada a ir à escola todo dia. Mais chato ainda é acabar se apaixonando por Fernando, o menino da sala ao lado, que não está nem aí pra você(n)</desc>
+    <credits>
+      <director>Anderson Simão</director>
+      <actor>Gabrielle Pizzato Santana</actor>
+      <actor>Leonardo Oliveira</actor>
+      <actor>Poliana Oliveira</actor>
+      <actor>Victor Carlim</actor>
+      <actor>Wellington Sari</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919085000 -0300" stop="20180919103000 -0300" channel="Telecine Fun">
+    <title lang="pt">Duas Vezes Cupido</title>
+    <desc lang="pt">Versão alemã de(n)</desc>
+    <credits>
+      <director>Lancelot Von Naso</director>
+      <actor>Mia Lohmann</actor>
+      <actor>Delphine Lohmann</actor>
+      <actor>Florian Stetter</actor>
+      <actor>Alwara Höfels</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919103000 -0300" stop="20180919123000 -0300" channel="Telecine Fun">
+    <title lang="pt">Caninos Brancos</title>
+    <desc lang="pt">Após a morte do pai, Jack vai para o Alasca em busca do ouro encontrado, com a ajuda de Alex e seu novo amigo, um lobo mestiço de cachorro(n)</desc>
+    <credits>
+      <director>Randal Kleiser</director>
+      <actor>Klaus Maria Brandauer</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Seymour Cassel</actor>
+      <actor>James Remar</actor>
+      <actor>Susan Hogan</actor>
+      <actor>Bill Moseley</actor>
+      <actor>Clint Youngreen</actor>
+      <actor>Aaron Hotch</actor>
+      <actor>Clifford Fossman</actor>
+      <actor>Suzanne Kent</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919123000 -0300" stop="20180919141000 -0300" channel="Telecine Fun">
+    <title lang="pt">Astro Boy</title>
+    <desc lang="pt">Na futurista Metro City, o Dr. Tenma perde seu filho e cria o robô Astro Boy para substituí-lo. O jovem robô possui superpoderes e logo sai em uma aventura para descobrir onde pertence(n)</desc>
+    <credits>
+      <director>David Bowers</director>
+      <actor>Vozes de Nicolas Cage</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Elle Fanning</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Donald Sutherland</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919141000 -0300" stop="20180919161000 -0300" channel="Telecine Fun">
+    <title lang="pt">Justin Bieber: Never Say Never</title>
+    <desc lang="pt">Documentário que mostra o ídolo adolescente durante seus shows em 2010. Um olhar sobre o novo fenômeno pop e sua vertiginosa ascensão à fama. Com vocês, a Febre Bieber(n)</desc>
+    <credits>
+      <director>Jon M. Chu</director>
+      <actor>Justin Bieber</actor>
+      <actor>Miley Cyrus</actor>
+      <actor>Sean Kingston</actor>
+      <actor>Ludacris</actor>
+      <actor>Jaden Smith</actor>
+      <actor>Diane Dale</actor>
+      <actor>Usher Raymond</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919161000 -0300" stop="20180919181500 -0300" channel="Telecine Fun">
+    <title lang="pt">Footloose - Ritmo Contagiante</title>
+    <desc lang="pt">Imagine como seria sua vida se onde você mora a dança e o rock estivessem proibidos. Footloose conta a história de uma pequena cidade onde normas conservadoras limitam a diversão, mas tudo muda com a chegada de Ren McComarck(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Kenny Wormald</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Julianne Hough</actor>
+      <actor>Andie MacDowell</actor>
+      <actor>Miles Teller</actor>
+      <actor>Ray McKinnon</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919181500 -0300" stop="20180919200500 -0300" channel="Telecine Fun">
+    <title lang="pt">Gaby Estrella: O Filme</title>
+    <desc lang="pt">Depois do grande sucesso no mundo da música, a adolescente Gaby Estrella começa a sofrer com a concorrência de um novo ídolo teen, Natasha(n)</desc>
+    <credits>
+      <director>Cláudio Boeckel</director>
+      <actor>Maitê Padilha</actor>
+      <actor>Bárbara Maia</actor>
+      <actor>Adriana Prado</actor>
+      <actor>Regina Sampaio</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919200500 -0300" stop="20180919220000 -0300" channel="Telecine Fun">
+    <title lang="pt">Meu Amigo, o Dragão</title>
+    <desc lang="pt">Após um acidente de carro na floresta, o pequeno Pete fica órfão. Ele logo é encontrado pelo dragão Elliot, que passa a protegê-lo. Seis anos se passam e a dupla está na mais perfeita sintonia(n)</desc>
+    <credits>
+      <director>David Lowery</director>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Robert Redford</actor>
+      <actor>Oakes Fegley</actor>
+      <actor>Oona Laurence</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Karl Urban</actor>
+      <actor>Isiah Whitlock Jr</actor>
+      <actor>Marcus Henderson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919235500 -0300" channel="Telecine Fun">
+    <title lang="pt">Kubo e as Cordas Mágicas</title>
+    <desc lang="pt">Kubo vive uma normal e tranquila vida em uma pequena vila no Japão com sua mãe. Até que um espírito vingativo do passado muda completamente sua vida, ao fazer com que todos os tipos de deuses e monstros o persigam(n)</desc>
+    <credits>
+      <director>Travis Knight</director>
+      <actor>Vozes de Art Parkinson</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Brenda Vaccaro</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Meyrick Murphy</actor>
+      <actor>George Takei</actor>
+      <actor>Rooney Mara</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919235500 -0300" stop="20180920014000 -0300" channel="Telecine Fun">
+    <title lang="pt">A Creche do Papai</title>
+    <desc lang="pt">Após perder o emprego, dois pais tiram seus filhos da creche e decidem abrir sua própria creche, e vivem entre gritos, choros, travessuras e dores de cabeça(n)</desc>
+    <credits>
+      <director>Steve Carr</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Anjelica Huston</actor>
+      <actor>Regina King</actor>
+      <actor>Kevin Nealon</actor>
+      <actor>Jonathan Katz</actor>
+      <actor>Siobhan Fallon</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Laura Kightingler</actor>
+      <actor>Leila Arcieri</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919001000 -0300" stop="20180919021000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como Eu Era Antes de Você</title>
+    <desc lang="pt">Rico e bem sucedido, Will leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto, ao atravessar a rua. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas(n)</desc>
+    <credits>
+      <director>Thea Sharrock</director>
+      <actor>Sam Claflin</actor>
+      <actor>Vanessa Kirby</actor>
+      <actor>Emilia Clarke</actor>
+      <actor>Eileen Dunwoodie</actor>
+      <actor>Pablo Raybould</actor>
+      <actor>Gabrielle Downey</actor>
+      <actor>Henri Charles</actor>
+      <actor>Samantha Spiro</actor>
+      <actor>Brendan Coyle</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919021000 -0300" stop="20180919034500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Deserto</title>
+    <desc lang="pt">Moises foi deportado dos EUA e anseia voltar ao país para reencontrar o filho. Com um grupo de mexicanos, ele tenta fazer o cruzamento da fronteira a pé(n)</desc>
+    <credits>
+      <director>Jonas Cuarón</director>
+      <actor>Gael García Bernal</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Alondra Hidalgo</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919034500 -0300" stop="20180919054000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Agente do Futuro</title>
+    <desc lang="pt">Trinta anos no futuro, o planeta Terra é um grande deserto. Jacq Vaucan é um agente de seguros da Robotics Corporation que investiga casos de manipulação de robôs. Ele descobre um mistério que irá mudar o destino da humanidade(n)</desc>
+    <credits>
+      <director>Gabe Ibáñez</director>
+      <actor>Robert Forster</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Melanie Griffith</actor>
+      <actor>Birgitte Hjort Sørensen</actor>
+      <actor>Tim McInnerny</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919054000 -0300" stop="20180919073500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Toc: Transtornada, Obsessiva, Compulsiva</title>
+    <desc lang="pt">Kika K, uma atriz idolatrada por milhões de fãs, está em crise com sua vida pessoal e profissional. Enquanto precisa lidar com seu Transtorno Obsessivo Compulsivo(n)</desc>
+    <credits>
+      <director>Paulinho Caruso</director>
+      <director>Teodoro Poppovic</director>
+      <actor>Tatá Werneck</actor>
+      <actor>Vera Holtz</actor>
+      <actor>Bruno Gagliasso</actor>
+      <actor>Daniel Furlan</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Ingrid Guimarães</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919073500 -0300" stop="20180919100000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Amor Não Tira Férias</title>
+    <desc lang="pt">Após sofrerem desilusões amorosas, duas mulheres de estilo de vida bem diferentes combinam de trocar suas casas temporariamente. A mudança faz com que elas encontrem novas paixões(n)</desc>
+    <credits>
+      <director>Nancy Meyers</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Jude Law</actor>
+      <actor>Jack Black</actor>
+      <actor>Eli Wallach</actor>
+      <actor>Edward Burns</actor>
+      <actor>Rufus Sewell</actor>
+      <actor>Miffy Englefield</actor>
+      <actor>Emma Pritchard</actor>
+      <actor>Sarah Parish</actor>
+      <actor>Shannyn Sossamon</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919100000 -0300" stop="20180919121500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Trumbo: Lista Negra</title>
+    <desc lang="pt">Dalton Trumbo é um roteirista cujo talento lhe rendeu prêmios e reconhecimento em Hollywood. Durante a Guerra Fria, porém, ele foi perseguido pelo Comitê de Atividades Antiamericanas e preso e proibido de trabalhar(n)</desc>
+    <credits>
+      <director>Jay Roach</director>
+      <actor>Diane Lane</actor>
+      <actor>Helen Mirren</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>David Maldonado</actor>
+      <actor>John Getz</actor>
+      <actor>David James Elliott</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919121500 -0300" stop="20180919140000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rei Charles III</title>
+    <desc lang="pt">Após a morte da Rainha, o Príncipe Charles tem uma adesão fictícia ao trono da monarquia britânica. Quando ele se recusa a assinar um polêmico projeto de lei, um caos político se instaura(n)</desc>
+    <credits>
+      <director>Rupert Goold</director>
+      <actor>Tim Pigott Smith</actor>
+      <actor>Oliver Chris</actor>
+      <actor>Richard Goulding</actor>
+      <actor>Charlotte Riley</actor>
+      <actor>Margot Leicester</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919140000 -0300" stop="20180919162000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rogue One: Uma História Star Wars</title>
+    <desc lang="pt">Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma arriscada missão: roubar os planos que revelam uma falha na construção da Estrela da Morte(n)</desc>
+    <credits>
+      <director>Gareth Edwards</director>
+      <actor>Diego Luna</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Donnie Yen</actor>
+      <actor>Wen Jiang</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Guy Henry</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Riz Ahmed</actor>
+      <actor>Mads Mikkelsen</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919162000 -0300" stop="20180919180500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Morte te dá Parabéns</title>
+    <desc lang="pt">Tree é uma jovem estudante que trata mal os meninos, desdenha das amigas e não parece estar muito disposta a atender as ligações do pai no dia do aniversário dela. No fim do mesmo dia, no entanto, ela é brutalmente assassinada(n)</desc>
+    <credits>
+      <director>Christopher Landon</director>
+      <actor>Jessica Rothe</actor>
+      <actor>Israel Broussard</actor>
+      <actor>Ruby Modine</actor>
+      <actor>Charles Aitken</actor>
+      <actor>Laura Clifton</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919180500 -0300" stop="20180919200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Horizonte Profundo: Desastre no Golfo</title>
+    <desc lang="pt">Mark Williams luta pela sobrevivência, enquanto ajuda seus companheiros, presos durante uma explosão em uma plataforma de extração de petróleo, no Golfo do México(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Kurt Russell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>John Malkovich</actor>
+      <actor>Douglas M. Griffin</actor>
+      <actor>Joe Chrest</actor>
+      <actor>Gina Rodriguez</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919200000 -0300" stop="20180919220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como se Tornar o Pior Aluno da Escola</title>
+    <desc lang="pt">Bernardo e Pedro são estudantes e enfrentam as obrigações escolares, tirar boas notas e cumprir as regras da escola. Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego(n)</desc>
+    <credits>
+      <director>Fabrício Bittar</director>
+      <actor>Joana Fomm</actor>
+      <actor>Moacyr Franco</actor>
+      <actor>Raul Gazolla</actor>
+      <actor>Danilo Gentili</actor>
+      <actor>Bruno Munhoz</actor>
+      <actor>Daniel Pimentel</actor>
+      <actor>Fábio Porchat</actor>
+      <actor>Marcelo Rafael</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919234500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Escolha Perfeita 3</title>
+    <desc lang="pt">Agora formadas, Beca, Fat Amy, Chloe e as demais Bella Bardens estão infelizes devido a trabalhos mal remunerados e pouco motivadores(n)</desc>
+    <credits>
+      <director>Trish Sie</director>
+      <actor>Anna Kendrick</actor>
+      <actor>Rebel Wilson</actor>
+      <actor>Brittany Snow</actor>
+      <actor>Anna Camp</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Ester Dean</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919234500 -0300" stop="20180920001000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Atração Obsessiva</title>
+    <desc lang="pt">Harris é um mulherengo nato e sempre marca encontros por meio de um aplicativo. A vida dele foge do controle quando ele conhece Riley, uma garota que começa a manifestar um comportamento obsessivo(n)</desc>
+    <credits>
+      <director>David Chirchirillo</director>
+      <actor>Noureen Dewulf</actor>
+      <actor>Lili Simmons</actor>
+      <actor>Jack Cutmore-Scott</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919015500 -0300" stop="20180919034000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Peregrinação</title>
+    <desc lang="pt">Irlanda, século 13. Nas perigosas e vastas paisagens irlandesas, um grupo de monges precisa carregar uma relíquia antiga e sagrada enquanto tentam sobreviver aos perigos das terras que atravessam(n)</desc>
+    <credits>
+      <director>Brendan Muldowney</director>
+      <actor>Tom Holland</actor>
+      <actor>Richard Armitage</actor>
+      <actor>Jon Bernthal</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919034000 -0300" stop="20180919061500 -0300" channel="Telecine Premium">
+    <title lang="pt">A Cura</title>
+    <desc lang="pt">Um jovem e ambicioso executivo é enviado para os Alpes Suíços com a missão de trazer de volta o CEO da empresa, em tratamento em um(n)</desc>
+    <credits>
+      <director>Gore Verbinski</director>
+      <actor>Dane DeHaan</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Mia Goth</actor>
+      <actor>Ivo Nandi</actor>
+      <actor>Adrian Schiller</actor>
+      <actor>Celia Imrie</actor>
+      <actor>Harry Groener</actor>
+      <actor>Tomas Norstrom</actor>
+      <actor>Ashok Mandanna</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919061500 -0300" stop="20180919084000 -0300" channel="Telecine Premium">
+    <title lang="pt">Mudança no Jogo</title>
+    <desc lang="pt">Shangai, 1930. A máfia chinesa se encontra em uma guerra sangrenta. Unidos pelo destino, dois homens têm a confiança e o afeto do sr. Tang, que pretende dominar a cidade. Ao mesmo tempo, eles disputam o amor da bela filha de Tang(n)</desc>
+    <credits>
+      <director>Xixi Gao</director>
+      <actor>Peter Ho</actor>
+      <actor>Ja-Hyeon Chu Chu</actor>
+      <actor>Zitao Huang</actor>
+      <actor>Coulee Nazha</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919084000 -0300" stop="20180919105000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Travessia</title>
+    <desc lang="pt">A história real do equilibrista Philippe Petit, famoso por atravessar as Torres Gêmeas usando apenas um cabo(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Guillaume Baillargeon</actor>
+      <actor>Émilie Leclerc</actor>
+      <actor>Mark Trafford</actor>
+      <actor>Inka Malovic</actor>
+      <actor>Lucas Ramacière</actor>
+      <actor>Martin Lefebvre</actor>
+      <actor>Philippe Bertrand</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919105000 -0300" stop="20180919122500 -0300" channel="Telecine Premium">
+    <title lang="pt">Mune, O Guardião da Lua</title>
+    <desc lang="pt">O jovem Mune é surpreendentemente escolhido para ser o guardião da Lua. Ao assumir essa difícil tarefa, ele enfrenta a ira e a inveja de outros postulantes ao cargo e embarca em muitas aventuras(n)</desc>
+    <credits>
+      <director>Alexandre Heboyan</director>
+      <director>Benoît Philippon</director>
+      <actor>Vozes de Joshua J. Ballard</actor>
+      <actor>Nicole Provost</actor>
+      <actor>Trevor Devall</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919122500 -0300" stop="20180919140000 -0300" channel="Telecine Premium">
+    <title lang="pt">Duas de Mim</title>
+    <desc lang="pt">Suryellen é uma cozinheira que trabalha duro para manter sozinha o filho pequeno, a irmã mais nova e a mãe. Um dia, após encontrar uma doceira mágica, seu pedido vira realidade e ela se divide em duas(n)</desc>
+    <credits>
+      <director>Cininha de Paula</director>
+      <actor>Thalita Carauta</actor>
+      <actor>Luma Costa</actor>
+      <actor>Marcio Garcia</actor>
+      <actor>Maria Gladys</actor>
+      <actor>Hsu Chien Hsin</actor>
+      <actor>Latino</actor>
+      <actor>Gabriel Lima</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919140000 -0300" stop="20180919160000 -0300" channel="Telecine Premium">
+    <title lang="pt">Victoria e Abdul: O Confidente da Rainha</title>
+    <desc lang="pt">Abdul Karim é um jovem indiano que é funcionário na corte do Reino Unido. À medida que o tempo passa, a rainha Victoria acaba desenvolvendo uma amizade muito improvável com esse criado específico(n)</desc>
+    <credits>
+      <director>Stephen Frears</director>
+      <actor>Judi Dench</actor>
+      <actor>Ali Fazal</actor>
+      <actor>Tim Pigott-Smith</actor>
+      <actor>Eddie Izzard</actor>
+      <actor>Adeel Akhtar</actor>
+      <actor>Michael Gambon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919160000 -0300" stop="20180919180500 -0300" channel="Telecine Premium">
+    <title lang="pt">Tinha Que Ser Ele</title>
+    <desc lang="pt">Ned leva a família inteira para visitar a querida filha Stephanie durante o feriado do Natal, mas ao encontrá-la entra em conflito com o namorado dela, um rapaz excêntrico que ficou rico por causa da internet(n)</desc>
+    <credits>
+      <director>John Hamburg</director>
+      <actor>Zoey Deutch</actor>
+      <actor>James Franco</actor>
+      <actor>Tangie Ambrose</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Bob Stephenson</actor>
+      <actor>Zack Pearlman</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919180500 -0300" stop="20180919202000 -0300" channel="Telecine Premium">
+    <title lang="pt">Um Homem Entre Gigantes</title>
+    <desc lang="pt">Dr. Bennet Omalu, neuropatologista forense, diagnostica um severo trauma cerebral em um jogador de futebol americano e, investigando o assunto, descobre se tratar de um mal comum entre os profissionais do esporte(n)</desc>
+    <credits>
+      <director>Peter Landesman</director>
+      <actor>Will Smith</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Gugu Mbatha-Raw</actor>
+      <actor>David Morse</actor>
+      <actor>Arliss Howard</actor>
+      <actor>Mike O'Malley</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Hill Harper</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919202000 -0300" stop="20180919220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Viagem das Loucas</title>
+    <desc lang="pt">Após ser dispensada pelo namorado na véspera da viagem para o Equador, Emily decide ir mesmo assim com sua mãe. No local, Emily convence a mãe, que é supercautelosa, a embarcar em uma aventura(n)</desc>
+    <credits>
+      <director>Jonathan Levine</director>
+      <actor>Amy Schumer</actor>
+      <actor>Goldie Hawn</actor>
+      <actor>Kim Caramele</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180920015500 -0300" channel="Telecine Premium">
+    <title lang="pt">Transformers: O Último Cavaleiro</title>
+    <desc lang="pt">Os humanos estão em guerra com os Transformers, que precisam se esconder na medida do possível. Cade Yeager é um de seus protetores, liderando um núcleo de resistência situado em um ferro-velho(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Laura Haddock</actor>
+      <actor>Santiago Cabrera</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Jerrod Carmichael</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919023000 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919023000 -0300" stop="20180919060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919090000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919090000 -0300" stop="20180919130000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919130000 -0300" stop="20180919132500 -0300" channel="SBT">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919132500 -0300" stop="20180919141500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919141500 -0300" stop="20180919150000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919150000 -0300" stop="20180919160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919160000 -0300" stop="20180919170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919170000 -0300" stop="20180919181500 -0300" channel="SBT">
+    <title lang="pt">Que Pobres Tão Ricos</title>
+    <desc lang="pt">Uma história de amor, encontros, desencontros e divertidas situações.u0027'Que Pobres Tão Ricos'' traz duas famílias completamente diferentes, mas que se veem obrigadas a dividir o mesmo teto(n)</desc>
+    <credits>
+      <director>Benjamín Cann</director>
+      <director>Rodrigo Hernández</director>
+      <actor>Miguel Angelo</actor>
+      <actor>Marck Tachen</actor>
+      <actor>Silvia Pasquel</actor>
+      <actor>Zuria Vega</actor>
+      <actor>Manuel Ibañez</actor>
+      <actor>Ingrid Martz</actor>
+      <actor>Jaime Camil</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919181500 -0300" stop="20180919192000 -0300" channel="SBT">
+    <title lang="pt">Carrossel</title>
+    <desc lang="pt">A novela tem início com a chegada de Helena à Escola Mundial para assumir o cargo de professora efetiva. Helena traz consigo toda sua jovialidade, o desejo de lecionar e a disposição de propiciar aos alunos uma boa formação(n)</desc>
+    <credits>
+      <director>Reynaldo Boury</director>
+      <actor>Rosanne Mulholland</actor>
+      <actor>Larissa Manoela</actor>
+      <actor>Maísa Silva</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Noemi Gerbelli</actor>
+      <actor>Fernando Benini</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919192000 -0300" stop="20180919200000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919200000 -0300" stop="20180919203000 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919205500 -0300" channel="SBT">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919205500 -0300" stop="20180919214500 -0300" channel="SBT">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Reynaldo da Costa Boury</director>
+      <actor>Sophia Valverde</actor>
+      <actor>Dalton Vigh</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Larissa Manoela</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919214500 -0300" stop="20180919223000 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919223000 -0300" stop="20180919224500 -0300" channel="SBT">
+    <title lang="pt">Pra Ganhar é Só Rodar</title>
+    <desc lang="pt">No programa o participante sorteado vai até o palco e roda cinco piões com as fotos dos artistas do SBT. O prêmio é definido de acordo com as combinações das fotos e pode valer até 1 milhão de reais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919000000 -0300" stop="20180919010000 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral na Estrada: Raça Goiana</title>
+    <desc lang="pt">Fabiano Cambota e o elenco conhecem a pamonha mais famosa da região. Depois, partem para a roça, onde vão aprender a plantar tomate e cuidar das galinhas(n)</desc>
+    <credits>
+      <director>Fabio Ock</director>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rodrigo Marques</actor>
+      <actor>Rafael Portugal</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919013000 -0300" channel="Comedy Central">
+    <title lang="pt">Jeff e os Ets: Jeff e alguma alegria infantil</title>
+    <desc lang="pt">Chateado pelo fato do melhor amigo de infância, o(n)</desc>
+    <credits>
+      <actor>Vozes de Brett Gelman</actor>
+      <actor>Alessandro Minoli</actor>
+      <actor>Josh Fadem</actor>
+      <actor>Sean Donnelly</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919013000 -0300" stop="20180919020000 -0300" channel="Comedy Central">
+    <title lang="pt">Jeff e os Ets: Jeff e alguns Jeffs</title>
+    <desc lang="pt">Enquanto os aliens estão de férias, Jeff acidentalmente usa um dispositivo que dá a todos na Terra os traços exatos da personalidade dele(n)</desc>
+    <credits>
+      <actor>Vozes de Brett Gelman</actor>
+      <actor>Alessandro Minoli</actor>
+      <actor>Josh Fadem</actor>
+      <actor>Sean Donnelly</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919023000 -0300" channel="Comedy Central">
+    <title lang="pt">Community</title>
+    <desc lang="pt">Quando o experimento do grupo de estudo de ciências é destruído, o pessoal tenta encontrar o criminoso e salvar a nota, quando Troy e Abed acham que eles descobriram o autor(n)</desc>
+    <credits>
+      <director>Rob Schrab</director>
+      <actor>Joel McHale</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Donald Glover</actor>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Charley Koontz</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919023000 -0300" stop="20180919030000 -0300" channel="Comedy Central">
+    <title lang="pt">Community</title>
+    <desc lang="pt">Quando um colega querido morre inesperadamente, Britta usa habilidades do curso de psicologia para aconselhar o grupo de estudo, Chang tenta ter mais controle sobre a segurança do campus(n)</desc>
+    <credits>
+      <director>Tristram Shapeero</director>
+      <actor>Gillian Jacobs</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Joel McHale</actor>
+      <actor>Yvette Nicole Brown</actor>
+      <actor>Jim Rash</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919030000 -0300" stop="20180919033000 -0300" channel="Comedy Central">
+    <title lang="pt">As Novas Aventuras De Christine</title>
+    <desc lang="pt">Depois de escolher abandonar a academia em vez de apoiar a discriminação de gays, Christine e Babr decidem transformar o prédio em um spa(n)</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor>Julia Louis-Dreyfus</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Hamish Linklater</actor>
+      <actor>Trevor Gagnon</actor>
+      <actor>Emily Rutherfurd</actor>
+      <actor>Alex Kapp Horner</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919033000 -0300" stop="20180919040000 -0300" channel="Comedy Central">
+    <title lang="pt">As Novas Aventuras De Christine</title>
+    <desc lang="pt">Enquanto tenta passar uma boa impressão em uma reunião na escola de Richie, Christine percebe que um dos pais presentes foi mau com ela nos tempos de escola(n)</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor>Julia Louis-Dreyfus</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Hamish Linklater</actor>
+      <actor>Trevor Gagnon</actor>
+      <actor>Emily Rutherfurd</actor>
+      <actor>Alex Kapp Horner</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919040000 -0300" stop="20180919043000 -0300" channel="Comedy Central">
+    <title lang="pt">República do Stand Up</title>
+    <desc lang="pt">Uma noite mais do que hilária com os melhores comediantes do Brasil(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919043000 -0300" stop="20180919050000 -0300" channel="Comedy Central">
+    <title lang="pt">República do Stand Up</title>
+    <desc lang="pt">Uma noite mais do que hilária com os melhores comediantes do Brasil(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919050000 -0300" stop="20180919053000 -0300" channel="Comedy Central">
+    <title lang="pt">South Park: Jovens Góticos 3: O levante dos Babacas</title>
+    <desc lang="pt">Os jovens góticos são mandados a um acampamento para crianças problemáticas(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mona Marshall</actor>
+      <actor>April Stewart</actor>
+      <actor>Jessie Jo Thomas</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S17 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919053000 -0300" stop="20180919060000 -0300" channel="Comedy Central">
+    <title lang="pt">South Park: Ike Indomável</title>
+    <desc lang="pt">Quando Ike chega à puberdade, ele e Kyle começam a se distanciar. Para salvar a relação, Kyle leva Ike para ver uma apresentação ao vivo do Yo Gabba Gabba(n)</desc>
+    <credits>
+      <director>Trey Parker</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mona Marshall</actor>
+      <actor>April Stewart</actor>
+      <actor>Bill Hader</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S17 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919063000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919063000 -0300" stop="20180919070000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919080000 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral: Amizade</title>
+    <desc lang="pt">Cinco grandes nomes do stand up brasileiro, de diferentes regiões do país, se reúnem para compartilhar assuntos do cotidiano e características particulares dos brasileiros de uma maneira cômica, ácida e divertida(n)</desc>
+    <credits>
+      <director>Marina Ragusa</director>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rafael Portugal e Rodrigo Marques</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919080000 -0300" stop="20180919083000 -0300" channel="Comedy Central">
+    <title lang="pt">As Novas Aventuras De Christine</title>
+    <desc lang="pt">Christine e Barb planejam uma despedida de solteira para Nova Christine em Las Vegas, e descobrem um lado dela que nem imaginavam que poderia existir(n)</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor>Julia Louis-Dreyfus</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Hamish Linklater</actor>
+      <actor>Trevor Gagnon</actor>
+      <actor>Emily Rutherfurd</actor>
+      <actor>Alex Kapp Horner</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919083000 -0300" stop="20180919085500 -0300" channel="Comedy Central">
+    <title lang="pt">As Novas Aventuras De Christine</title>
+    <desc lang="pt">Christine tenta provar a todos (e a si mesma) que é capaz de ser independente depois que Matthew e Barb decidem morar em outro lugar e Ritchie vai viajar com a escola(n)</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor>Julia Louis-Dreyfus</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Hamish Linklater</actor>
+      <actor>Trevor Gagnon</actor>
+      <actor>Emily Rutherfurd</actor>
+      <actor>Alex Kapp Horner</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919085500 -0300" stop="20180919092500 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças: O Que Você Sabe</title>
+    <desc lang="pt">Em uma noite de atividades familiares na casa dos Kyles, e depois de jogar um jogo chamado(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <episode-num system="onscreen">S4 E28</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919092500 -0300" stop="20180919095000 -0300" channel="Comedy Central">
+    <title lang="pt">Batalha de Lip Sync: Jeff Ross vs. Rob Schneider</title>
+    <desc lang="pt">O astro do RoastMaster, Jeff Ross, enfrenta o ex-aluno da SNL, Rob Schneider, por todas as risadas e toda a glória da LSB(n)</desc>
+    <credits>
+      <actor>LL Cool J</actor>
+      <actor>Chrissy Teigen</actor>
+      <actor>Jeffrey Ross</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919095000 -0300" stop="20180919101500 -0300" channel="Comedy Central">
+    <title lang="pt">Batalha de Lip Sync: Shania Twain Tribute: Derek Hough vs. Nicole</title>
+    <desc lang="pt">A lendária artista country Shania Twain está no palco da LSB enquanto Derek Hough e Nicole Scherzinger sincronizam seus maiores sucessos(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919101500 -0300" stop="20180919104000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919104000 -0300" stop="20180919110500 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919110500 -0300" stop="20180919113000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janetu0027Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919113000 -0300" stop="20180919120000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janetu0027Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919125500 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral na Estrada: Recife de Rodrigo Marques 1ª Temp.</title>
+    <desc lang="pt">Em Recife, a mãe do anfitrião Rodrigo Marques recebe o elenco para um café da manhã bem típico. Eles conhecem os famosos Bonecos de Olinda e, claro, a obra de arte favorita do Rodrigo: a Torre de Cristal de Francisco Brennand(n)</desc>
+    <credits>
+      <director>Fabio Ock</director>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rodrigo Marques</actor>
+      <actor>Rafael Portugal</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919125500 -0300" stop="20180919132000 -0300" channel="Comedy Central">
+    <title lang="pt">South Park: Tweek x Craig</title>
+    <desc lang="pt">Criada por Trey Parker e Matt Stone. Destinado ao público adulto, o programa se tornou famoso por seu humor negro, cruel e satírico que abrange diversos assuntos(n)</desc>
+    <credits>
+      <director>Matt Stone</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mary Kay Bergman</actor>
+      <actor>Isaac Hayes</actor>
+      <actor>Jenniffer Howell</actor>
+    </credits>
+    <date>1999</date>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919132000 -0300" stop="20180919134500 -0300" channel="Comedy Central">
+    <title lang="pt">South Park: Jacovassauro</title>
+    <desc lang="pt">Os garotos encontram um Jacovassauro pré-histórico vivo e tentam ajudá-lo, até descobrirem o(n)</desc>
+    <credits>
+      <director>Matt Stone</director>
+      <actor>Vozes de Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mary Kay Bergman</actor>
+      <actor>Jennifer Howell</actor>
+      <actor>Isaac Hayes</actor>
+    </credits>
+    <date>1999</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919134500 -0300" stop="20180919141000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças: O Bebê Parte 1</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janetu0027Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <episode-num system="onscreen">S4 E29</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919141000 -0300" stop="20180919151000 -0300" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up: Especial Nordeste</title>
+    <desc lang="pt">Especial da Central do Stand Up do Comedy Central(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919151000 -0300" stop="20180919154000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919154000 -0300" stop="20180919160500 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919160500 -0300" stop="20180919163500 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janetu0027Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919163500 -0300" stop="20180919170000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janetu0027Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919170000 -0300" stop="20180919180000 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <desc lang="pt">Cinco grandes nomes do stand up brasileiro, de diferentes regiões do país, se reúnem para compartilhar assuntos do cotidiano e características particulares dos brasileiros de uma maneira cômica, ácida e divertida(n)</desc>
+    <credits>
+      <director>Marina Ragusa</director>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rafael Portugal e Rodrigo Marques</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919180000 -0300" stop="20180919190000 -0300" channel="Comedy Central">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O The Noite Com Danilo Gentili traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais (e menos) relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Danilo Gentili</actor>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana</actor>
+      <actor>Diguinho Coruja e banda Ultraje a Rigor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919190000 -0300" stop="20180919193000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919193000 -0300" stop="20180919200000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <credits>
+      <director>Debbie Allen</director>
+      <director>Madeline Cripe</director>
+      <director>Ellen Falcon</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana Ali</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Jeffrey A. Townes</actor>
+      <actor>Vernee Watson-Johnson</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919200000 -0300" stop="20180919203000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças: O Que Você Sabe</title>
+    <desc lang="pt">Em uma noite de atividades familiares na casa dos Kyles, e depois de jogar um jogo chamado(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <episode-num system="onscreen">S4 E28</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919210000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças: O Bebê Parte 1</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janetu0027Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <credits>
+      <director>Damien Dante Wayans</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>George Gore II</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker Mckenna Posey</actor>
+    </credits>
+    <date>2003</date>
+    <episode-num system="onscreen">S4 E29</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919210000 -0300" stop="20180919215500 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral na Estrada: Recife de Rodrigo Marques 1ª Temp.</title>
+    <desc lang="pt">Em Recife, a mãe do anfitrião Rodrigo Marques recebe o elenco para um café da manhã bem típico. Eles conhecem os famosos Bonecos de Olinda e, claro, a obra de arte favorita do Rodrigo: a Torre de Cristal de Francisco Brennand(n)</desc>
+    <credits>
+      <director>Fabio Ock</director>
+      <actor>Fabiano Cambota</actor>
+      <actor>Thiago Ventura</actor>
+      <actor>Nando Viana</actor>
+      <actor>Rodrigo Marques</actor>
+      <actor>Rafael Portugal</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919215500 -0300" stop="20180919220000 -0300" channel="Comedy Central">
+    <title lang="pt">Animatoons</title>
+    <desc lang="pt">Conheça o verdadeiro zika vírus, veja a alegria de uma criança ao ver o Papai Noel e saiba como brincar de cara ou coroa da maneira certa(n)</desc>
+    <credits>
+      <director>Felipe Castanhari</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919230000 -0300" channel="Comedy Central">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O The Noite Com Danilo Gentili traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais (e menos) relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Danilo Gentili</actor>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana</actor>
+      <actor>Diguinho Coruja e banda Ultraje a Rigor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919042500 -0300" channel="Studio Universal">
+    <title lang="pt">Os Doze Macacos</title>
+    <desc lang="pt">Um vírus letal extermina mais de cinco bilhões de pessoas em 1996. Em 2035, um dos sobreviventes é forçado a voltar no tempo para descobrir como surgiu a epidemia e tentar reescrever o futuro(n)</desc>
+    <credits>
+      <director>Terry Gilliams</director>
+      <actor>Bruce Willis</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Madeleine Stowe</actor>
+      <actor>Michael Chance</actor>
+      <actor>Vernon Campbell</actor>
+      <actor>H. Michael Walls</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919042500 -0300" stop="20180919060000 -0300" channel="Studio Universal">
+    <title lang="pt">Stuck - Presos no Engarrafamento</title>
+    <desc lang="pt">Após se conhecerem e passarem a noite juntos, Guy e Holly ficam presos no engarrafamento. Enquanto eles conversam, detalhes da noite passada vêm à tona(n)</desc>
+    <credits>
+      <director>Stuart Acher</director>
+      <actor>Madeline Zima</actor>
+      <actor>Joel Moore</actor>
+      <actor>Abraham Benrubi</actor>
+      <actor>Logan Agayan</actor>
+      <actor>Gaby Alcazar</actor>
+      <actor>Joanna Canton</actor>
+      <actor>Stephanie Faracy</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919070000 -0300" channel="Studio Universal">
+    <title lang="pt">Infomercial Studio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919081500 -0300" channel="Studio Universal">
+    <title lang="pt">Infomercial Studio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919081500 -0300" stop="20180919100500 -0300" channel="Studio Universal">
+    <title lang="pt">American Girl - Dançando Sob As Luzes</title>
+    <desc lang="pt">O sonho da menina Isabelle é se tornar uma famosa bailarina. Sua irmã mais velha, já reconhecida, é sua maior inspiração. A oportunidade surge quando uma grande bailarina a incentiva a fazer testes para uma companhia profissional(n)</desc>
+    <credits>
+      <director>Vince Marcello</director>
+      <actor>Melora Hardin</actor>
+      <actor>Erin Pitt</actor>
+      <actor>Grace Davidson</actor>
+      <actor>Genneya Walton</actor>
+      <actor>Devyn Nekoda</actor>
+      <actor>Jake Simons</actor>
+      <actor>Saara Chaudry</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919100500 -0300" stop="20180919115500 -0300" channel="Studio Universal">
+    <title lang="pt">American Girl: A Receita para o Sucesso</title>
+    <desc lang="pt">Grace é uma menina muito talentosa na cozinha. Com grandes ambições, ela sonha em abrir um negócio com suas amigas. Quando sua família resolve se mudar para Paris, ela vai trabalhar com um grande chef(n)</desc>
+    <credits>
+      <director>Vince Marcello</director>
+      <actor>Virginia Madsen</actor>
+      <actor>Caitlin Carmichael</actor>
+      <actor>Olivia Rodrigo</actor>
+      <actor>Lili Bordán</actor>
+      <actor>Eloise Webb</actor>
+      <actor>Karen Strassman</actor>
+      <actor>Hélène Cardona</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919115500 -0300" stop="20180919134000 -0300" channel="Studio Universal">
+    <title lang="pt">A Menina do Chalé</title>
+    <desc lang="pt">Kim quer ganhar mais dinheiro depois da trágica morte de sua mãe. Ela arruma um emprego em uma empresa que a envia para a Áustria, para trabalhar em um chalé(n)</desc>
+    <credits>
+      <director>Phil Traill</director>
+      <actor>Felicity Jones</actor>
+      <actor>Ed Westwick</actor>
+      <actor>Bill Bailey</actor>
+      <actor>Miquita Oliver</actor>
+      <actor>Rick Edwards</actor>
+      <actor>Rebecca Lacey</actor>
+      <actor>Chandra Ruegg</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919134000 -0300" stop="20180919151500 -0300" channel="Studio Universal">
+    <title lang="pt">O Fim da Infância</title>
+    <desc lang="pt">Quinze anos após o estabelecimento da Era Dourada,Karellen finalmente revela sua verdadeira forma para os humanos, que lembra os antigos demônios da religião cristã. A humanidade está em seu momento mais pacífico, mas a que preço(n)</desc>
+    <credits>
+      <director>Nick Hurran</director>
+      <actor>Mike Vogel</actor>
+      <actor>Daisy Betts</actor>
+      <actor>Osy Ikhile,Georgina Haig</actor>
+      <actor>Yael Stone</actor>
+      <actor>Charles Dance</actor>
+      <actor>Charles Dance</actor>
+      <actor>Charlotte Nicdao</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919151500 -0300" stop="20180919174000 -0300" channel="Studio Universal">
+    <title lang="pt">Os Doze Macacos</title>
+    <desc lang="pt">Um vírus letal extermina mais de cinco bilhões de pessoas em 1996. Em 2035, um dos sobreviventes é forçado a voltar no tempo para descobrir como surgiu a epidemia e tentar reescrever o futuro(n)</desc>
+    <credits>
+      <director>Terry Gilliams</director>
+      <actor>Bruce Willis</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Madeleine Stowe</actor>
+      <actor>Michael Chance</actor>
+      <actor>Vernon Campbell</actor>
+      <actor>H. Michael Walls</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919174000 -0300" stop="20180919193500 -0300" channel="Studio Universal">
+    <title lang="pt">Assassino Virtual</title>
+    <desc lang="pt">Assassino virtual feito a partir da personalidade de duzentos criminosos para testar policiais, foge do ciber espaço e ameaça a população de Los Angeles(n)</desc>
+    <credits>
+      <director>Brett Leonard</director>
+      <actor>Denzel Washington</actor>
+      <actor>Kelly Lynch</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Stephen Spinella</actor>
+      <actor>William Forsythe</actor>
+      <actor>Louise Fletcher</actor>
+      <actor>William Fichtner</actor>
+      <actor>Costas Mandylor</actor>
+      <actor>Kevin J. O'Connor</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Christopher Murray</actor>
+      <actor>Heidi Schanz</actor>
+      <actor>Traci Lords</actor>
+      <actor>Gordon Jennison Noice</actor>
+      <actor>Mari Morrow</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180919193500 -0300" stop="20180919220000 -0300" channel="Studio Universal">
+    <title lang="pt">O Exterminador do Futuro 2: O Julgamento Final</title>
+    <desc lang="pt">No século XXI seres humanos liderados por John Connor enfrentam cyborgs que dominam a Terra. Para acabar com a resistência, as máquinas enviam um cyborg T1000 para o passado, para matar o jovem Connor, que vive em Los Angeles(n)</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Arnold Schwarzennegger</actor>
+      <actor>Linda Hamilton</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Robert Patric</actor>
+      <actor>Earl Boen</actor>
+      <actor>Joe Morton</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Castulo Guerra</actor>
+      <actor>Jenette Goldstein</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919233000 -0300" channel="Studio Universal">
+    <title lang="pt">O Fim da Infância</title>
+    <desc lang="pt">O supervisor Karellen anuncia para o mundo que todas as crianças serão reunidas e levadas da Terra, mas que os adultos poderão viver como quiserem(n)</desc>
+    <credits>
+      <director>Nick Hurran</director>
+      <actor>Mike Vogel</actor>
+      <actor>Daisy Betts</actor>
+      <actor>Osy Ikhile</actor>
+      <actor>Georgina Haig</actor>
+      <actor>Charles Dance</actor>
+      <actor>Ashley Zukerman</actor>
+      <actor>Hayley Magnus</actor>
+      <actor>Tanc Sade</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919001500 -0300" stop="20180919011500 -0300" channel="RECORD">
+    <title lang="pt">Programa do Porchat</title>
+    <desc lang="pt">O Programa do Porchat vai trazer entrevistas divertidas, brincadeiras irreverentes e atrações cheias de humor. Em um talk show com todos os elementos de que o povo gosta, Porchat entretém o telespectador com um monólogo inicial(n)</desc>
+    <credits>
+      <director>Diego Pignataro</director>
+      <actor>Fábio Porchat</actor>
+      <actor>Paulo Vieira</actor>
+    </credits>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919011500 -0300" stop="20180919014500 -0300" channel="RECORD">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919014500 -0300" stop="20180919024500 -0300" channel="RECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919024500 -0300" stop="20180919060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919063000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919063000 -0300" stop="20180919070000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919083000 -0300" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919083000 -0300" stop="20180919100000 -0300" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">O telejornal mostra as notícias da cidade, política, saúde, economia, polícia, prestação de serviços e os destaques internacionais. Além disso, há um espaço dedicado ao esporte(n)</desc>
+    <credits>
+      <actor>Carla Cecato</actor>
+      <actor>Roberta Piza</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919100000 -0300" stop="20180919120000 -0300" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919130000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919130000 -0300" stop="20180919132500 -0300" channel="RECORD">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919132500 -0300" stop="20180919150000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919150000 -0300" stop="20180919154500 -0300" channel="RECORD">
+    <title lang="pt">Luz do Sol</title>
+    <desc lang="pt">Acompanhe o drama do desaparecimento de Adriana, herdeira de família rica e tradicional que some em sua festa de aniversário de cinco anos(n)</desc>
+    <credits>
+      <director>Ivan Zettel</director>
+      <actor>Paloma Duarte</actor>
+      <actor>Petrônio Gontijo</actor>
+      <actor>Luiza Tomé</actor>
+      <actor>Patrícia França</actor>
+      <actor>Leonardo Brício</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919154500 -0300" stop="20180919164500 -0300" channel="RECORD">
+    <title lang="pt">Essas Mulheres</title>
+    <desc lang="pt">A novela se passa na cidade do RJ. Três amigas, Aurélia, Lúcia e Mila, freqüentam aulas de uma professora progressista que ensina francês e música. O destino acaba separando-as, mas elas continuam ligadas(n)</desc>
+    <credits>
+      <director>João Camargo</director>
+      <director>Flávio Colatrello Jr</director>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Ana Rosa</actor>
+      <actor>Ewerton de Castro</actor>
+      <actor>Christine Fernandes</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919164500 -0300" stop="20180919180000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919180000 -0300" stop="20180919185000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919185000 -0300" stop="20180919194500 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919194500 -0300" stop="20180919203000 -0300" channel="RECORD">
+    <title lang="pt">A Terra Prometida</title>
+    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+    <credits>
+      <actor>Sidney Sampaio</actor>
+      <actor>Alexandre Slaviero</actor>
+      <actor>Altair Rodrigues</actor>
+      <actor>Ana Barroso</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Amando Amaral</actor>
+      <actor>Bernardo Velasco</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Brenda Haddad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919205500 -0300" channel="RECORD">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Eleitoral obrigatório(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919205500 -0300" stop="20180919214500 -0300" channel="RECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919214500 -0300" stop="20180919224500 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180919012600 -0300" stop="20180919032800 -0300" channel="Cinemax">
+    <title lang="pt">Adam - Memórias de uma Guerra</title>
+    <desc lang="pt">História de Adam Stein, um homem que viveu o drama de ser judeu na Alemanha nazista e sobreviveu aos traumas dos campos de concentração(n)</desc>
+    <credits>
+      <director>Paul Schrader</director>
+      <actor>Jeff Goldblum</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Derek Jacobi</actor>
+      <actor>Ayelet Zurer</actor>
+      <actor>Veronica Ferres</actor>
+      <actor>Juliane Köhler</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919032800 -0300" stop="20180919052200 -0300" channel="Cinemax">
+    <title lang="pt">Vida de Solteiro</title>
+    <desc lang="pt">Uma comédia sobre seis jovens que dividem gostos, sonhos, inquietudes e o mesmo prédio em Seattle. Cada um tem o desejo de amar e ser amado. Eles terão que dominar a difícil tarefa de encontrar a felicidade(n)</desc>
+    <credits>
+      <director>Cameron Crowe</director>
+      <actor>Matt Dillon</actor>
+      <actor>Bridget Fonda</actor>
+      <actor>Campbell Scott</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Sheila Kelley</actor>
+      <actor>Matt Dillon</actor>
+      <actor>Jim True-Frost</actor>
+      <actor>James LeGros</actor>
+      <actor>Tom Skerritt</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Peter Horton</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919052200 -0300" stop="20180919054900 -0300" channel="Cinemax">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919054900 -0300" stop="20180919073500 -0300" channel="Cinemax">
+    <title lang="pt">Some Girl(s)</title>
+    <desc lang="pt">Um famoso escritor decide realizar uma viagem pelos Estados Unidos antes de seu casamento, com a finalidade de fazer as pazes com suas ex-namoradas, pois terminou com elas de maneira catastrófica(n)</desc>
+    <credits>
+      <director>Daisy von Scherler Mayer</director>
+      <actor>Adam Brody</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Mía Maestro</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Emily Watson</actor>
+      <actor>Laura Mann</actor>
+      <actor>Kathleen Christy</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919073500 -0300" stop="20180919080200 -0300" channel="Cinemax">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919080200 -0300" stop="20180919100200 -0300" channel="Cinemax">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Asian Hawk se dedica a roubar valiosas antiguidades. Agora, uma empresa o contratou para encontrar cabeças de bronze de animais exóticos chineses, roubadas do Antigo Palácio de Verão(n)</desc>
+    <credits>
+      <director>Jackie Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Sang-woo Kwon</actor>
+      <actor>John Paisley</actor>
+      <actor>Xingtong Yao</actor>
+      <actor>Nathan Boyd</actor>
+      <actor>Cui Haobo</actor>
+      <actor>Qingxiang Wang</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919100200 -0300" stop="20180919114100 -0300" channel="Cinemax">
+    <title lang="pt">A Hora do Rush 2</title>
+    <desc lang="pt">Carter, o falastrão detetive americano, e Lee, o dedicado inspetor asiático, juntam suas forças novamente para investigar os segredos por trás da explosão de uma bomba na embaixada americana em Hong Kong(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Jackie Chan</actor>
+      <actor>Chris Tucker</actor>
+      <actor>John Lone</actor>
+      <actor>Ziyi Zhang</actor>
+      <actor>Roselyn Sanchez</actor>
+      <actor>Alan King</actor>
+      <actor>Kenneth Tsang</actor>
+      <actor>Lisa LoCicero</actor>
+      <actor>Mei Melançon</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lucy Lin</actor>
+      <actor>Cindy Lu</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919114100 -0300" stop="20180919143500 -0300" channel="Cinemax">
+    <title lang="pt">Superman - O Retorno</title>
+    <desc lang="pt">Anos após um súbito desaparecimento, Superman retorna. Mas a situação é outra, a cidade se acostumou a viver sem ele. Agora além de se adaptar à nova realidade, terá de enfrentar um antigo inimigo que planeja acabar com ele(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Brandon Routh</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>James Marsden</actor>
+      <actor>Frank Langella</actor>
+      <actor>Sam Huntington</actor>
+      <actor>Eva Marie Saint</actor>
+      <actor>Marlon Brando</actor>
+      <actor>Kal Penn</actor>
+      <actor>Tristan Lake Leabu</actor>
+      <actor>Ian Roberts</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180919143500 -0300" stop="20180919161800 -0300" channel="Cinemax">
+    <title lang="pt">A Nova Cinderela - Se o Sapato Servir</title>
+    <desc lang="pt">A talentosa Tessa é servente de sua ingrata madrasta e das duas meias-irmãs. Quando iniciam as audições para um musical de A Cinderela, Tessa terá a oportunidade de mudar sua vida para sempre e se transformar em uma estrela(n)</desc>
+    <credits>
+      <director>Michelle Johnston</director>
+      <actor>Sofia Carson</actor>
+      <actor>Jennifer Tilly</actor>
+      <actor>Thomas Law</actor>
+      <actor>David Ury</actor>
+      <actor>Amy Louise Wilson</actor>
+      <actor>Alli White</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919161800 -0300" stop="20180919180600 -0300" channel="Cinemax">
+    <title lang="pt">Hércules</title>
+    <desc lang="pt">Hércules é exilado e vendido como escravo por se opor às ordens do Rei, e também pelo amor que sente pela futura esposa do irmão. Agora ele deve demonstrar a força que herdou de seu pai, Zeus, para recuperar tudo que perdeu(n)</desc>
+    <credits>
+      <director>Renny Harlin</director>
+      <actor>Kellan Lutz</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Roxanne McKee</actor>
+      <actor>Gaia Weiss</actor>
+      <actor>Liam Garrigan</actor>
+      <actor>Liam McIntyre</actor>
+      <actor>Rade Serbedzija</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919180600 -0300" stop="20180919202000 -0300" channel="Cinemax">
+    <title lang="pt">O Suspeito</title>
+    <desc lang="pt">Um homem é impedido de desembarcar nos Estados Unidos, por ser acusado de terrorismo. Ele é levado para fora do país e torturado, sem que sua família ou qualquer outra pessoa saiba(n)</desc>
+    <credits>
+      <director>Gavin Hood</director>
+      <actor>Omar Metwally</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Aramis Knight</actor>
+      <actor>Rosie Malek-Yonan</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Moa Khouas</actor>
+      <actor>Zineb Oukach</actor>
+      <actor>Yigal Naor</actor>
+      <actor>Laila Mrabti</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180919202000 -0300" stop="20180919220000 -0300" channel="Cinemax">
+    <title lang="pt">A Hora do Rush 2</title>
+    <desc lang="pt">Carter, o falastrão detetive americano, e Lee, o dedicado inspetor asiático, juntam suas forças novamente para investigar os segredos por trás da explosão de uma bomba na embaixada americana em Hong Kong(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Jackie Chan</actor>
+      <actor>Chris Tucker</actor>
+      <actor>John Lone</actor>
+      <actor>Ziyi Zhang</actor>
+      <actor>Roselyn Sanchez</actor>
+      <actor>Alan King</actor>
+      <actor>Kenneth Tsang</actor>
+      <actor>Lisa LoCicero</actor>
+      <actor>Mei Melançon</actor>
+      <actor>Maggie Q</actor>
+      <actor>Lucy Lin</actor>
+      <actor>Cindy Lu</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180920012600 -0300" channel="Cinemax">
+    <title lang="pt">Superman - O Retorno</title>
+    <desc lang="pt">Anos após um súbito desaparecimento, Superman retorna. Mas a situação é outra, a cidade se acostumou a viver sem ele. Agora além de se adaptar à nova realidade, terá de enfrentar um antigo inimigo que planeja acabar com ele(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Brandon Routh</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>James Marsden</actor>
+      <actor>Frank Langella</actor>
+      <actor>Sam Huntington</actor>
+      <actor>Eva Marie Saint</actor>
+      <actor>Marlon Brando</actor>
+      <actor>Kal Penn</actor>
+      <actor>Tristan Lake Leabu</actor>
+      <actor>Ian Roberts</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+</tv>
